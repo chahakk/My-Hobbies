@@ -1,0 +1,161 @@
+body{
+  margin:0px;
+  text-align:center;
+  font-family: 'Merriweather', serif;
+
+}
+
+h1{
+  margin-top:0;
+  margin:0 auto 0 auto;
+  font-family: 'Caveat', cursive;
+
+}
+
+h1.title{
+  font-size: 4rem;
+  color:#464646;
+}
+
+h1.titles{
+  color:#464646;
+}
+
+h2{
+  font-family: 'Caveat', cursive
+}
+
+h3{
+  color:#66BFBF;
+  font-weight:bolder;
+}
+
+p{
+  font-size: 0.8rem;
+  font-weight: bolder;
+  color:#40514E;
+}
+
+img.photo{
+  max-width:15%;
+  height:auto;
+}
+
+img.drawing{
+  max-width:10%;
+  height:auto;
+}
+
+img.baking{
+  max-width:10%;
+  height:auto;
+}
+
+
+img.coding{
+  max-width:10%;
+  height:auto;
+}
+
+/*img.mountain{
+  max-width:40%;
+  height:auto;
+}*/
+
+.pro{
+  font-family: 'Sacramento', cursive;
+  color:black;
+}
+
+div.skill-row{
+  width:50%;
+  margin:0 auto 0 auto;
+
+}
+
+.top{
+  background-color: #54BAA9;
+  position:relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color:#CCF9EE;
+  padding-bottom:20px;
+  padding-top: 20px;
+}
+
+hr.middle{
+  background-color: #CCF9EE;
+  border-style: none;
+  border-top: 1.5px dotted;
+  border-color: grey;
+  height: 0;
+  width: 7%;
+  border-width: 10px;}
+
+.bottom-container{
+  background-color: #54BAA9;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+  outline: 0px;
+}
+
+.bottom-cloud{
+  position:absolute;
+}
+
+.top-cloud{
+  position:absolute;
+  right:350px;
+  top:50px;
+}
+
+hr{
+  border:none;
+  background-color:#646464;
+  height:1px;
+}
+
+.BUTTON_IBD {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: Open Sans;
+   font-size: 13px;
+   font-weight: 200;
+   padding: 9px;
+   background-color: #444645;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_IBD:hover {
+   background: #646464;
+   border: solid #646464 1px;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+a{
+  font-family: 'Merriweather', serif;
+  font-size:12px;
+  padding-right: 5px;
+  color:#000000;
+}
+
+a:hover{
+  color:#444645;
+}
+
+.cpy{
+  font-size: 10px;
+  color:#444645;
+}
